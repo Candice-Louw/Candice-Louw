@@ -1,4 +1,7 @@
 ![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=graywhite&show_icons=true&hide_border=true&locale=de)
+<br/>
+Currently working on: ![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)
+https://www.sormas-oegd.de/
 
 <!--
 **Candice-Louw/Candice-Louw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)
-https://www.sormas-oegd.de/
-
 -->
