@@ -3,7 +3,7 @@
 Currently working on: <a href="https://www.sormas-oegd.de/" target="_blank">![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)SORMAS</a>
 at https://github.com/hzi-braunschweig<br/>
 <hr/>
-DE | <a href="https://www.sormas-oegd.de/" target="_blank">www.sormas-oegd.de</a> INT | <a href="https://sormas.org/" target="_blank">www.sormas.org</a>
+DE | <a href="https://www.sormas-oegd.de/" target="_blank">www.sormas-oegd.de</a><br/> INT | <a href="https://sormas.org/" target="_blank">www.sormas.org</a>
 <hr/>
 <!--
 **Candice-Louw/Candice-Louw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
