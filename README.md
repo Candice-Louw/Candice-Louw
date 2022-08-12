@@ -3,7 +3,7 @@
 #### Currently working on: <a href="https://www.sormas-oegd.de/" target="_blank">![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)SORMAS</a> (Surveillance Outbreak Response Management and Analysis System)
 hosted at https://github.com/hzi-braunschweig
 <hr/>
-DEMO: <a href="https://demo.sormas.org/sormas-ui/login" target="_blank">www.demo.sormas.org</a><br/>
+DEMO: <a href="https://demo.sormas.org/sormas-ui/login" target="_blank">demo.sormas.org</a><br/>
 <hr/>
 <b>Websites</b><br/>
 SORMAS DE | <a href="https://www.sormas-oegd.de/" target="_blank">www.sormas-oegd.de</a><br/> SORMAS EN | <a href="https://sormas.org/" target="_blank">www.sormas.org</a>
