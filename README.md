@@ -4,10 +4,14 @@
 hosted at https://github.com/hzi-braunschweig
 <hr/>
 <b>DEMO</b><br/>
-<a href="https://demo.sormas.org/sormas-ui/login" target="_blank">demo.sormas.org</a><br/>
+<a href="https://demo.sormas.org/sormas-ui/login" target="_blank">demo.sormas.org</a>
+<br/>
 <hr/>
-<b>Websites</b><br/>
-SORMAS DE | <a href="https://www.sormas-oegd.de/" target="_blank">www.sormas-oegd.de</a><br/> SORMAS EN | <a href="https://sormas.org/" target="_blank">www.sormas.org</a>
+<b>Websites</b>
+<br/>
+SORMAS DE | <a href="https://www.sormas-oegd.de/" target="_blank">www.sormas-oegd.de</a>
+<br/>
+SORMAS EN | <a href="https://sormas.org/" target="_blank">www.sormas.org</a>
 <hr/>
 <!--
 **Candice-Louw/Candice-Louw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
