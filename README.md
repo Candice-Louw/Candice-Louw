@@ -5,7 +5,7 @@
 hosted at https://github.com/hzi-braunschweig
 <hr/>
 
-#### DEMO
+#### DEMO system:
 <a href="https://demo.sormas.org/sormas-ui/login" target="_blank">demo.sormas.org</a>
 <br/>
 <hr/>
