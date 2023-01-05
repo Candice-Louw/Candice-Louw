@@ -1,7 +1,7 @@
 ![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=graywhite&show_icons=true&hide_border=true&locale=en)
 <br/><hr/>
 #### Currently working on:
-<a href="https://sormas.org/">![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)SORMAS</a> (Surveillance Outbreak Response Management and Analysis System)
+<a href="https://sormas.org/">![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png) Surveillance Outbreak Response Management and Analysis System</a> (SORMAS)
 <!--hosted at https://github.com/hzi-braunschweig-->
 <hr/>
 
