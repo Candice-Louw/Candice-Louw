@@ -1,3 +1,4 @@
+[![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw)](https://github.com/candice-louw/github-readme-stats)
 <!--![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=graywhite&show_icons=true&hide_border=true&locale=en)
 <br/><hr/>-->
 #### Currently working on:
