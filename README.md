@@ -3,7 +3,7 @@
 <hr/>
 
 #### Currently working on:
-<a href="https://sormas.org/">![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png) Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) translated through <a href="https://crowdin.com/project/sormas">CrowdIn</a>
+<a href="https://sormas.org/"><!--![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)--> Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) translated through <a href="https://crowdin.com/project/sormas">CrowdIn</a>
 [![Crowdin](https://badges.crowdin.net/sormas/localized.svg)](https://crowdin.com/project/sormas)
 <!--hosted at https://github.com/hzi-braunschweig-->
 <hr/>
