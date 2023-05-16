@@ -9,6 +9,8 @@
 <hr/>-->
 
 #### DEMO system information:
+<a href="https://sormas.org/demo-system-login/">Demo system login credentials</a>
+<br/>
 <a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
 <br/>
 <hr/>
