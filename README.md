@@ -1,4 +1,4 @@
-[![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=transparent&show_icons=true&locale=de)](https://github.com/candice-louw/github-readme-stats)
+<!--[![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=transparent&show_icons=true&locale=de)](https://github.com/candice-louw/github-readme-stats)
 <!--![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=graywhite&show_icons=true&hide_border=true&locale=en)-->
 <hr/>
 
@@ -9,9 +9,9 @@
 <hr/>-->
 
 #### DEMO system information:
-<a href="https://sormas.org/demo-system-login/">Demo system login credentials</a>
+Demo system login credentials: <a href="https://sormas.org/demo-system-login/">https://sormas.org/demo-system-login/</a>
 <br/>
-<a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
+Demo system URL: <a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
 <br/>
 <hr/>
 
