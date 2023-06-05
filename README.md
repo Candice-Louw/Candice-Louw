@@ -1,5 +1,5 @@
-[![Candice's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=transparent#gh-dark-mode-only&show_icons=true&locale=de)](https://github.com/candice-louw/github-readme-stats)
-[![Candice's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=candice-louw&theme=graywhite#gh-light-mode-only&show_icons=true&hide_border=true&locale=de)](https://github.com/candice-louw/github-readme-stats)
+[![Candice's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&locale=de&theme=transparent&hide_border=false&icon_color=162148)](https://github.com/candice-louw/github-readme-stats)
+<!--[![Candice's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&hide_border=true&locale=de&theme=graywhite#gh-light-mode-only)](https://github.com/candice-louw/github-readme-stats)-->
 <hr/>
 
 #### Currently working on:
