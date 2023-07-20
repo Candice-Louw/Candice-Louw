@@ -1,4 +1,4 @@
-[![Candice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&locale=de&theme=transparent&hide_border=false&icon_color=162148&title_color=2D375A)](https://github.com/candice-louw/github-readme-stats)
+[![Candice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&locale=en&theme=transparent&hide_border=false&icon_color=162148&title_color=2D375A)](https://github.com/candice-louw/github-readme-stats)
 <!--[![Candice's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&hide_border=true&locale=de&theme=graywhite#gh-light-mode-only)](https://github.com/candice-louw/github-readme-stats)-->
 <hr/>
 
