@@ -11,7 +11,7 @@ hosted at https://github.com/SORMAS-Foundation.
 #### DEMO system information:
 Demo system login credentials: <a href="https://sormas.org/demo-system-login/">https://sormas.org/demo-system-login/</a>
 <br/>
-Demo system URL: <a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
+Demo system URL: <a href="https://sormas.org/demo-system-login/">https://demo.sormas.org</a>
 <br/>
 <hr/>
 
