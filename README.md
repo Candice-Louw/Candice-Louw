@@ -8,8 +8,8 @@
 hosted at https://github.com/SORMAS-Foundation.
 <hr/>
 
-#### DEMO system information:
-Demo system URL: <a href="https://sormas.org/demo-system-login/">https://demo.sormas.org</a>
+#### DEMO system:
+<a href="https://sormas.org/demo-system-login/">https://demo.sormas.org</a>
 <br/>
 <hr/>
 
