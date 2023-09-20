@@ -13,6 +13,11 @@
 <br/>
 <hr/>
 
+#### Commmunity platform:
+<a href="https://community.sormas.org/" target="_blank">https://community.sormas.org/</a>
+<br/>
+<hr/>
+
 #### Websites:
 SORMAS EN | <a href="https://sormas.org/">www.sormas.org</a><br/>
 SORMAS DE | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
