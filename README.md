@@ -18,6 +18,11 @@
 <br/>
 <hr/>
 
+#### Translation platform:
+<a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
+<br/>
+<hr/>
+
 #### Websites:
 SORMAS EN | <a href="https://sormas.org/">www.sormas.org</a><br/>
 SORMAS DE | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
