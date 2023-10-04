@@ -2,28 +2,28 @@
 <!--[![Candice's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&hide_border=true&locale=de&theme=graywhite#gh-light-mode-only)](https://github.com/candice-louw/github-readme-stats)-->
 <hr/>
 
-#### Currently working on:
+##### Currently working on:
 <a href="https://github.com/hzi-braunschweig/SORMAS-Project"><!--![cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo](https://www.sormas-oegd.de/wp-content/uploads/elementor/thumbs/cropped-SORMAS_Logo_RGB-2-op5x5ludmwmak31fnqtlbac2thbjsnt4f1zheq17uo.png)--> Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) translated through <a href="https://crowdin.com/project/sormas">CrowdIn</a> and hosted at https://github.com/SORMAS-Foundation.
 <!--[![Crowdin](https://badges.crowdin.net/sormas/localized.svg)](https://crowdin.com/project/sormas)-->
 
 <hr/>
 
-#### DEMO system:
-<a href="https://sormas.org/demo-system-login/">https://demo.sormas.org</a>
+##### DEMO system:
+<a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
 <br/>
 <hr/>
 
-#### Commmunity platform:
+##### Commmunity platform:
 <a href="https://community.sormas.org/" target="_blank">https://community.sormas.org/</a>
 <br/>
 <hr/>
 
-#### Translation platform:
+##### Translation platform:
 <a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
 <br/>
 <hr/>
 
-#### Websites:
+##### Websites:
 SORMAS EN | <a href="https://sormas.org/">www.sormas.org</a><br/>
 SORMAS DE | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
 
