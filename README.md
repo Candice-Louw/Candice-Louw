@@ -24,8 +24,8 @@
 <hr/>
 
 ##### Websites:
-SORMAS EN | <a href="https://sormas.org/">www.sormas.org</a><br/>
-SORMAS DE | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
+SORMAS EN (English) | <a href="https://sormas.org/">www.sormas.org</a><br/>
+SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
 
 <!--<hr/>
 
