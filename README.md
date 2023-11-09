@@ -14,12 +14,12 @@ DEMO system: <br/>
 <hr/>
 
 Commmunity platform: <br/>
-<a href="https://community.sormas.org/" target="_blank">https://community.sormas.org/</a>
+<a href="https://community.sormas.org/" target="_blank">community.sormas.org</a>
 <br/>
 <hr/>
 
 Translation platform: <br/>
-<a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
+<a href="https://crowdin.com/project/sormas" target="_blank">crowdin.com/project/sormas</a>
 <br/>
 <hr/>
 
