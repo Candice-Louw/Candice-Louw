@@ -25,9 +25,9 @@ Translation platform: <br/>
 
 Websites: <br/>
 SORMAS EN (English) | <a href="https://sormas.org/">www.sormas.org</a><br/>
-SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
+<!--SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
 
-<!--<hr/>
+<hr/>
 
 **Candice-Louw/Candice-Louw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
