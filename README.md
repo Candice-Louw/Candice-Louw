@@ -23,7 +23,7 @@ Translation platform: <br/>
 <br/>
 <hr/>
 
-Website: <br/>
+Website (EN): <br/>
 <a href="https://sormas.org/">www.sormas.org</a><br/>
 <!--SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
 
