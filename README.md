@@ -9,7 +9,7 @@ Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hoste
 <hr/>
 
 DEMO system: <br/>
-<a href="https://sormas.org/demo-system-login/">demo.sormas.org</a>
+<a href="https://demo.sormas.org/">demo.sormas.org</a>
 <br/>
 <hr/>
 
