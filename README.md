@@ -19,7 +19,7 @@ Community platform: <br/>
 <hr/>
 
 Translation platform: <br/>
-<a href="https://crowdin.com/project/sormas" target="_blank">crowdin.com/project/sormas</a>
+<a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
 <br/>
 <hr/>
 
