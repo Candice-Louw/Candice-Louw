@@ -13,6 +13,11 @@ DEMO system: <br/>
 <br/>
 <hr/>
 
+Product Booklet: <br/>
+<a href="https://sormas.org/booklet/">sormas.org/booklet</a>
+<br/>
+<hr/>
+
 Community platform: <br/>
 <a href="https://community.sormas.org/" target="_blank">community.sormas.org</a>
 <br/>
