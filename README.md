@@ -8,7 +8,7 @@ Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hoste
 
 <hr/>
 
-DEMO system: <br/>
+DEMO System: <br/>
 <a href="https://demo.sormas.org/">demo.sormas.org</a>
 <br/>
 <hr/>
@@ -18,12 +18,12 @@ Product Booklet: <br/>
 <br/>
 <hr/>
 
-Community platform: <br/>
+Community Platform: <br/>
 <a href="https://community.sormas.org/" target="_blank">community.sormas.org</a>
 <br/>
 <hr/>
 
-Translation platform: <br/>
+Translation Platform: <br/>
 <a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
 <br/>
 <hr/>
