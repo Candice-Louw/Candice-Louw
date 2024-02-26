@@ -13,7 +13,7 @@ DEMO System: <br/>
 <br/>
 <hr/>
 
-Product Booklet: <br/>
+System Overview Booklet: <br/>
 <a href="https://sormas.org/booklet/">sormas.org/booklet</a>
 <br/>
 <hr/>
