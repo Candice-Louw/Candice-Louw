@@ -3,7 +3,7 @@
 <!--<hr/>-->
 
 Currently working on: <br/>
-Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hosted at https://github.com/SORMAS-Foundation - a recognised <a href="https://app.digitalpublicgoods.net/a/10113">Digital Public Good</a>.
+Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hosted at <a href="https://github.com/SORMAS-Foundation">github.com/SORMAS-Foundation</a> - a recognised <a href="https://app.digitalpublicgoods.net/a/10113">Digital Public Good</a>.
 <!--[![Crowdin](https://badges.crowdin.net/sormas/localized.svg)](https://crowdin.com/project/sormas)-->
 
 <hr/>
