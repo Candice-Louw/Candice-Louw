@@ -28,6 +28,11 @@ Translation Platform: <br/>
 <br/>
 <hr/>
 
+FAQs: <br/>
+<a href="https://sormas.org/faq/">https://sormas.org/faq/</a>
+<br/>
+<hr/>
+
 Website (English): <br/>
 <a href="https://sormas.org/">www.sormas.org</a><br/>
 <!--SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
