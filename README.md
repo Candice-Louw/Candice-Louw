@@ -13,6 +13,11 @@ DEMO System: <br/>
 <br/>
 <hr/>
 
+Website (English): <br/>
+<a href="https://sormas.org/">www.sormas.org</a>
+<br/>
+<hr/>
+
 System Booklet: <br/>
 <a href="https://sormas.org/booklet/">sormas.org/booklet</a>
 <br/>
@@ -33,8 +38,6 @@ FAQs: <br/>
 <br/>
 <hr/>
 
-Website (English): <br/>
-<a href="https://sormas.org/">www.sormas.org</a><br/>
 <!--SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
 
 <hr/>
