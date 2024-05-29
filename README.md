@@ -13,7 +13,7 @@ DEMO System: <br/>
 <br/>
 <hr/>
 
-Website (English): <br/>
+Website: <br/>
 <a href="https://sormas.org/">www.sormas.org</a>
 <br/>
 <hr/>
