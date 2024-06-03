@@ -14,7 +14,7 @@ DEMO System: <br/>
 <hr/>
 
 Website: <br/>
-<a href="https://sormas.org/">www.sormas.org</a>
+<a href="https://sormas.org/">sormas.org</a>
 <br/>
 <hr/>
 
