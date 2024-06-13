@@ -2,11 +2,12 @@
 <!--[![Candice's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=candice-louw&show_icons=true&hide_border=true&locale=de&theme=graywhite#gh-light-mode-only)](https://github.com/candice-louw/github-readme-stats)-->
 <!--<hr/>-->
 
+<!--
 Currently working on: <br/>
 Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hosted at <a href="https://github.com/SORMAS-Foundation">github.com/SORMAS-Foundation</a> - a recognised <a href="https://app.digitalpublicgoods.net/a/10113">Digital Public Good</a>.
 <!--[![Crowdin](https://badges.crowdin.net/sormas/localized.svg)](https://crowdin.com/project/sormas)-->
 
-<hr/>
+<!--<hr/>
 
 DEMO System: <br/>
 <a href="https://demo.sormas.org/">demo.sormas.org</a>
