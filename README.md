@@ -3,46 +3,6 @@
 <!--<hr/>-->
 
 <!--
-Currently working on: <br/>
-Surveillance Outbreak Response Management and Analysis System</a> (SORMAS) hosted at <a href="https://github.com/SORMAS-Foundation">github.com/SORMAS-Foundation</a> - a recognised <a href="https://app.digitalpublicgoods.net/a/10113">Digital Public Good</a>.
-<!--[![Crowdin](https://badges.crowdin.net/sormas/localized.svg)](https://crowdin.com/project/sormas)-->
-
-<!--<hr/>
-
-DEMO System: <br/>
-<a href="https://demo.sormas.org/">demo.sormas.org</a>
-<br/>
-<hr/>
-
-Website: <br/>
-<a href="https://sormas.org/">sormas.org</a>
-<br/>
-<hr/>
-
-System Booklet: <br/>
-<a href="https://sormas.org/booklet/">sormas.org/booklet</a>
-<br/>
-<hr/>
-
-Community Platform: <br/>
-<a href="https://community.sormas.org/" target="_blank">community.sormas.org</a>
-<br/>
-<hr/>
-
-Translation Platform: <br/>
-<a href="https://crowdin.com/project/sormas" target="_blank">https://crowdin.com/project/sormas</a>
-<br/>
-<hr/>
-
-FAQs: <br/>
-<a href="https://sormas.org/faq/">https://sormas.org/faq/</a>
-<br/>
-<hr/>
-
-<!--SORMAS DE (Deutsch) | <a href="https://www.sormas-oegd.de/">www.sormas-oegd.de</a>
-
-<hr/>
-
 **Candice-Louw/Candice-Louw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
